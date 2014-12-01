@@ -6,5 +6,5 @@ __Augments stored tracking data with additional information (geo, weather, etc).
 
 ![Snowpack](snowpack.jpg)
 
--  Updates stored messages in [Amazon Simple Storage Service (SQS)](http://aws.amazon.com/s3/)
+-  Updates stored messages in [Amazon Simple Storage Service (S3)](http://aws.amazon.com/s3/)
 
