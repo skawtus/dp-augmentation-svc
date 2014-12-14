@@ -1,10 +1,9 @@
 snowpack
 ========
 
-__Augments stored tracking data with additional information (geo, weather, etc).  Follows a chain of responsibility and decorator pattern.__
-
+__A lambda function that runs in [AWS Lambda](http://aws.amazon.com/lambda/)__
 
 ![Snowpack](snowpack.jpg)
 
--  Updates stored messages in [Amazon Simple Storage Service (S3)](http://aws.amazon.com/s3/)
-
+1. Augments stored tracking data with additional information (geo, weather, etc)
+2.  Follows a chain of responsibility and decorator pattern.

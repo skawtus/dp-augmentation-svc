@@ -26,3 +26,11 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+.elasticbeanstalk/
+
+.idea/*
+*.iml
+
+run.sh
+run-debug.sh
