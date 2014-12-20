@@ -11,4 +11,5 @@ __A lambda function written in NodeJs that runs in [AWS Lambda](http://aws.amazo
 2. Stores final decorated object in [S3](http://aws.amazon.com/s3/)
 3. Decorators
    * geo information from ip: [ipinfo.io](http://ipinfo.io/)
-   *
+   * weather information from [noaa](http://www.noaa.gov/wx.html) using [weathers](https://www.npmjs.com/package/weathers)
+

@@ -17,6 +17,7 @@
         "underscore": "latest",
         "chainof": "latest",
         "extender": "latest",
-        "node-curl": "latest"
+        "node-curl": "latest",
+        "weathers": "latest"
     }
 }
