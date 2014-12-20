@@ -1,9 +1,9 @@
 {
     "name": "snowpack",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "private": true,
     "scripts": {
-        "start": "node local_lambda"
+        "start": "node app.js"
     },
     "dependencies": {
         "express": "~4.9.0",
@@ -14,6 +14,9 @@
         "debug": "~2.0.0",
         "jade": "~1.6.0",
         "aws-sdk": "latest",
-        "underscore": "latest"
+        "underscore": "latest",
+        "chainof": "latest",
+        "extender": "latest",
+        "node-curl": "latest"
     }
 }
