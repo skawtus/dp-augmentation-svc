@@ -8,4 +8,4 @@ __A lambda function written in NodeJs that runs in [AWS Lambda](http://aws.amazo
 1. Augments stored tracking data with additional information (geo, weather, etc)
 2.  Patterns
    * [chain of responsibility](http://en.wikipedia.org/wiki/Chain-of-responsibility_pattern) using [chainof](https://www.npmjs.com/package/chainof)
-   * [decorator](http://en.wikipedia.org/wiki/Decorator_pattern)
+   * [decorator](http://en.wikipedia.org/wiki/Decorator_pattern) using [extender](https://www.npmjs.com/package/extender)
