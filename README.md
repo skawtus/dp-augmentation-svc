@@ -1,4 +1,4 @@
-data pipeline augmentation service
+lambda augmentation
 ========
 
 __A lambda function written in NodeJs that runs in [AWS Lambda](http://aws.amazon.com/lambda/)__
